@@ -9,9 +9,6 @@ aluno foi ou não aprovado (se a nota do G2 for maior ou igual a 6,0).*/
 
 int main()
 {	
-	//numero positivo > 0
-	//numero negativo < 0
-
 	float n1, n2, n3, n4, g2, media;
 	
 	printf("\nDigite a N1 (Peso 2):");
